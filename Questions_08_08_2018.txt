@@ -1,0 +1,6 @@
+1. Write a python script to accept path as an argument, do the below tasks
+        -> scan through the path, and list all the files present in current folder as well as subfolder
+        -> store all the files in the xls and maintain the count of different types of files.(eg.. *.txt, *.png, etc)
+        -> if any modification is made to the files system like addition or deletion upon xls creation, flag the change
+
+Note : Write program in pythonic way !!!! cheers programming
